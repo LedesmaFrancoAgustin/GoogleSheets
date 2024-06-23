@@ -30,3 +30,6 @@ document.getElementById('formulario').addEventListener('submit', function(event)
       alert('Hubo un error al enviar los datos');
     });
   });
+
+
+ 
