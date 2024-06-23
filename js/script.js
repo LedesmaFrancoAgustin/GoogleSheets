@@ -5,7 +5,7 @@ document.getElementById('formulario').addEventListener('submit', function(event)
     const email = document.getElementById('email').value;
     const telefono = document.getElementById('telefono').value;
     
-    const url = 'https://script.google.com/macros/s/AKfycbwf010MkmMBZxEdc5Txh8_pUU1IaBZ4kabxcQVW8NU7zCzIItdPlt18_gD4SFNMs6pYrQ/exec';
+    const url = 'https://script.google.com/macros/s/AKfycbyZnclz7k9OqkZsYKjZxDV6q1WlA5X1QalU83STivGVFq-NpTuVssk5jycp8raNTNDfWA/exec';
     
     const datos = {
       nombre: nombre,
